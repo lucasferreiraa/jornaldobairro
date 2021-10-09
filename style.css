@@ -1,0 +1,172 @@
+.link{
+    color: inherit;
+}
+
+#cabeçalho{
+    background-color: cadetblue;
+    padding: 5px;
+    margin: -60px;
+}
+
+#rodape{
+    background-color: rgb(19, 89, 92);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -35px;
+}
+
+#imagembairro{
+    border-radius: 5px;
+    width: 522px;
+    height: 266px;
+    margin-left: 60px;
+}
+
+#imagembairro2{
+    margin-left: 160px;
+    border-radius: 5px;
+    width: 522px;
+    height: 266px;
+}
+
+#imagembairro3{
+    float: right;
+    margin-right: 60px;
+    border-radius: 5px;
+    width: 522px;
+    height: 266px;
+}
+
+#titulo{
+    text-align: center;
+    margin-top: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(19, 89, 92);
+}
+
+#titulonoticia{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid rgb(19, 89, 92);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.imagemnoticia{
+    margin-top: 10px;
+    width: 380px;
+    height: 250px;
+    border: 3px solid rgb(19, 89, 92);
+}
+
+#textonoticia{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 900px;
+    font-size: 30px;
+}
+
+#legendanoticia{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 840px;
+    margin-top: -150px;
+}
+
+#textonoticia2{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-size: 30px;
+    margin-right: 495px;
+}
+
+#legendanoticia2{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 1070px;
+    margin-top: -180px;
+}
+
+#textonoticia3{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-size: 30px;
+    margin-right: 425px;
+}
+
+#legendanoticia3{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 1050px;
+    margin-top: -180px;
+}
+
+#textonoticia4{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-size: 30px;
+    margin-right: 445px;
+}
+
+#legendanoticia4{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 935px;
+    margin-top: -180px;
+}
+
+#textonoticia5{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-size: 30px;
+    margin-right: 825px;
+}
+
+#legendanoticia5{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 840px;
+    margin-top: -180px;
+}
+
+#cliquetexto{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(19, 89, 92);
+    text-decoration: none;
+}
+
+#video{
+    margin-right: 300px;
+}
+
+#acidentes{
+    font-family: sans-serif;
+    display: inline;
+    margin-top: 10px;
+    background-color: rgb(26, 149, 153);
+    float: left;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+#crimes{
+    margin-left: 750px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgb(26, 149, 153);
+    display: inline;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#covid{
+    float: right;
+    margin-top: 10px;
+    background-color: rgb(26, 149, 153);
+    display: inline;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
